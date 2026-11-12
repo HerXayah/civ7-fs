@@ -16,9 +16,11 @@ A port of the CIV7 FS Exploit for Switch 2 with hopefully higher success rate
 Im too lazy for reddit responses, humour me.  
 - Stay on the Home Screen for a minute to 45 Seconds before running the exploit
 - Reboot or Turn off your Switch once at least
+- Use. LAN. Please. For your girl's sanity at least.
 - Use Linux/MacOS (does make it better...)
 - Fix the save everytime you get an error via IZCIV
   - ``Ask your LLM how to do this if you struggle to run https://github.com/byizmysh/IZCIVSwitch/blob/main/kit/save-tools/restore_save.py``
+    - You can do this instantly after having a failed run e.g. dont restart instantly but run the Restore Save.
 
 # Credits
 
