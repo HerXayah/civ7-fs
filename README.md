@@ -1,5 +1,7 @@
 # civ7-fs
-A port of the CIV7 FS Exploit for Switch 2 with hopefully higher success rate
+A port of the CIV7 FS Exploit for Switch 2 with hopefully higher success rate.
+This is basically useless for normal users. Just use the Userland stuff.
+FS is basically uneeded for y'all rn.
 
 
 ## How to use?
