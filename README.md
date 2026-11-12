@@ -1,4 +1,4 @@
-<img width="1596" height="517" alt="{CABAC7F4-3984-4729-9DCC-9ADE09700AEE}" src="https://github.com/user-attachments/assets/d926682a-2689-4168-80da-5a1a8e4d8df7" /># civ7-fs
+# civ7-fs
 A port of the CIV7 FS Exploit for Switch 2 with hopefully higher success rate
 
 
